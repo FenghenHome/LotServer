@@ -24,7 +24,7 @@ https://github.com/FenghenHome/LotServer/blob/master/lotServer.pdf
 
 ## 许可证接口来源
 
-https://github.com/fei5seven/lotServer/blob/master/lotServerInstall.sh
+https://github.com/wxlost/lotServer/blob/master/lotServerInstall.sh
 
 ## 使用方法
 
